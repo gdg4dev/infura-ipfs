@@ -10,7 +10,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd infura-ipfs
+  cd infura-ipfs/client
 ```
 
 Install dependencies
